@@ -1,5 +1,5 @@
 Proyecto de computacion tolerante a fallas
 Alumnos:
- - Guzman Munguia Omar Alejandro
+ - Guzmán Munguía Omar Alejandro
  - Lazo Villa Gabriel
- - Lopez de Rueda Fernando Yair Valentin
+ - López de Rueda Fernando Yaír Valentín
