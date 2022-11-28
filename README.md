@@ -1,4 +1,4 @@
-_**Proyecto de computacion tolerante a fallas**
+**Proyecto de computacion tolerante a fallas**
 
 **Consumo de API con Flask utilizando Docker, Kubernetes e Istio**_
 
