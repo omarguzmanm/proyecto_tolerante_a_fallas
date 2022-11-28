@@ -9,6 +9,8 @@ Alumnos:
 
 
 **Descripción**
+
+
 Aplicación desarrollada en python y desplegada en Flask para generar un servidor web, 
 teniendo un formulario y un registro hecho con LocalStorge para tener algo de tolerancia
 a fallos.
