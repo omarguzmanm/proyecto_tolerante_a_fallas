@@ -1,6 +1,6 @@
-**Proyecto de computacion tolerante a fallas**
+_**Proyecto de computacion tolerante a fallas**
 
-**Consumo de API con Flask utilizando Docker, Kubernetes e Istio**
+**Consumo de API con Flask utilizando Docker, Kubernetes e Istio**_
 
 Alumnos:
  - Guzmán Munguía Omar Alejandro
@@ -8,8 +8,7 @@ Alumnos:
  - López de Rueda Fernando Yaír Valentín
 
 
-**Tegnologías usadas
-**
+**Tegnologías usadas**
  - HTML
  - CSS
  - JS
