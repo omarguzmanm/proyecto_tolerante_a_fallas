@@ -19,4 +19,5 @@ teniendo un boton de busqueda para introducir lo que desee y la api pueda funcio
 mostrar los resultados correspondientes.
 
 
+![Captura de pantalla_20221128_011023](https://user-images.githubusercontent.com/85196028/204221513-38b29cd6-8f2d-47fa-8dae-c54cc51b2906.png)
 
