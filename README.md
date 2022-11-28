@@ -8,6 +8,17 @@ Alumnos:
  - López de Rueda Fernando Yaír Valentín
 
 
+**Tegnologías usadas
+**
+ - HTML
+ - CSS
+ - JS
+ - PYTHON
+ - MYSQL
+ - DOCKER
+ - KUBERNETES
+ - ISTIO
+
 **Descripción**
 
 
