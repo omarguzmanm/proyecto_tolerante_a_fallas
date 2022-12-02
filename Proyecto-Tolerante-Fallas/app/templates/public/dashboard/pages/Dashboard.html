@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css">
+  <title>Document</title>
+</head>
+<body>
+  <nav class="navbar bg-dark">
+    <div class="container-fluid">
+        <a href="/" style="text-decoration: none;"><h2 class="text-light" >GIPHY</h2></a>
+        <form action="/inicio" method="POST">
+          <div class="d-flex">
+              <input name="search" type="search" class="form-control">
+              <button type="submit" class="btn btn-danger mx-3">BUSCAR</button>
+                <a href="/" style="color: white; margin-top: 5px;"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
+                  <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5ZM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5 5 5Z"/>
+                </svg></a>
+          </div>
+      </form>    
+    </div>
+</nav>
+  <div class="row justify-content-center">
+    <div class="col-md-12 mb-2">
+
+
+    </div>
+
+    <div class="container">
+      <div class="row row-col-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mt-3">
+          {% for gif in data %}
+              <div class="col-md-4 mb-3">
+                  <img src="{{gif['images']['original']['url']}}" width="100%" height="300">
+              </div>
+          {% endfor %}
+      </div>
+  </div>
+  
+
+  </div>
+</body>
+</html>
+  
