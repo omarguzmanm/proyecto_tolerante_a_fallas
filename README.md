@@ -56,5 +56,4 @@ Otra función de nuestra app es que al momento de seleccionar el recuadro de la 
 
 Para poder descargar nuestra imagen se debe de ultilizar el siguiente comando:
 
-
-
+   docker pull gabreillazo/theproyect 
