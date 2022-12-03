@@ -1,6 +1,6 @@
 # Proyecto de computación tolerante a fallas
 
-#Consumo de API con Flask utilizando Docker, Kubernetes e Istio
+# 🖥Consumo de API con Flask utilizando Docker, Kubernetes e Istio
 
 Alumnos:
  - Guzmán Munguía Omar Alejandro
@@ -8,7 +8,7 @@ Alumnos:
  - López de Rueda Fernando Yaír Valentín
 
 
-**Tegnologías usadas**
+🌐Tegnologías usadas
  - HTML
  - CSS
  - JS
@@ -18,17 +18,12 @@ Alumnos:
  - KUBERNETES
  - ISTIO
 
-**Descripción**
+# 📑Descripción
 
+Aplicación desarrollada en python y desplegada en Flask para generar un servidor web, dicha aplicación
+hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usuario hacer uso de estas.
 
-Aplicación desarrollada en python y desplegada en Flask para generar un servidor web, 
-teniendo un formulario y un registro hecho con LocalStorge para tener algo de tolerancia
-a fallos.
-Dicha aplicacion hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS) una vez que el usuario incia sesión; 
-teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API que deseé consumir.
-
-
-**APIS utilizadas**
+# ☑APIS utilizadas
  - GIPHY: Api la cual te permite hacer una busqueda de cualquier gif mediante una barra la cual se situa en la parte de arriba.
  - MARVEL: Api la cual despliega varios personajes de la franquicia los cuales al dar click sobre uno direccionará a la persona a una pagína donde se mostrará la biografía de ese personaje en cuestión, además de los comics donde aparece.
   - DOG API: Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
