@@ -29,7 +29,8 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
   - **DOG API:** Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
 
 
-# Prerequitos
+# Pre-requitos🗂
+
 **🐳Docker**
 **🪱Python**
 **⚡Flask**
@@ -37,8 +38,22 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
 **📁Istio**
 
 # Iniciamos
+
 Descargamos la imagen de docker con el siguiente comando:
 **docker pull gabreillazo/theproyect **
+
+Iniciamos minikube:
+**Minikube start**
+
+Cargamos nuestro deployment y service para generar nuestros pods
+**kubectl apply -f deployment.yml**
+**kubectl apply -f service.yml**
+
+Miramos que se generaron:
+**kubectl get pods**
+**minikube dashboard**
+
+Creamos un tunel para nuestro servicio
 
 
 
