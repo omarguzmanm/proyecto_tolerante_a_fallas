@@ -24,9 +24,8 @@ Alumnos:
 Aplicación desarrollada en python y desplegada en Flask para generar un servidor web, 
 teniendo un formulario y un registro hecho con LocalStorge para tener algo de tolerancia
 a fallos.
-Dicha aplicacion hace el consumo de la API de GYPHY una vez que el usuario incia sesión; 
-teniendo un boton de busqueda para introducir lo que desee y la api pueda funcionar y 
-mostrar los resultados correspondientes.
+Dicha aplicacion hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS) una vez que el usuario incia sesión; 
+teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API que deseé consumir.
 
 
 
