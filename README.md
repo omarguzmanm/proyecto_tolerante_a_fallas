@@ -29,6 +29,19 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
   - **DOG API:** Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
 
 
+# Prerequitos
+**🐳Docker**
+**🪱Python**
+**⚡Flask**
+**⚙Minikube**
+**📁Istio**
+
+# Iniciamos
+Descargamos la imagen de docker con el siguiente comando:
+**docker pull gabreillazo/theproyect **
+
+
+
 
 ![imagen 1](https://user-images.githubusercontent.com/114009509/205428044-fe26d151-c655-4801-a608-dfe0cb4fcf4c.png)
 
@@ -51,10 +64,3 @@ Al momento de ingresar una direcccion inexistente se le direccionará automatica
 
 
 
-
-# 🐳Docker
-
-
-Para poder descargar nuestra imagen se debe de ultilizar el siguiente comando:
-
-   docker pull gabreillazo/theproyect 
