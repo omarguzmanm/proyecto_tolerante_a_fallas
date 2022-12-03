@@ -29,9 +29,9 @@ teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API q
 
 
 **APIS utilizadas**
- - **GIPHY**: Api la cual te permite hacer una busqueda de cualquier gif mediante una barra la cual se situa en la parte de arriba.
- - **MARVEL**: Api la cual despliega varios personajes de la franquicia los cuales al dar click sobre uno direccionará a la persona a una pagína donde se mostrará la biografía de ese personaje en cuestión, además de los comics donde aparece.
-  - **DOG API**: Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
+ - GIPHY: Api la cual te permite hacer una busqueda de cualquier gif mediante una barra la cual se situa en la parte de arriba.
+ - MARVEL: Api la cual despliega varios personajes de la franquicia los cuales al dar click sobre uno direccionará a la persona a una pagína donde se mostrará la biografía de ese personaje en cuestión, además de los comics donde aparece.
+  - DOG API: Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
 
 
 
@@ -44,6 +44,9 @@ teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API q
 ![imagen 4](https://user-images.githubusercontent.com/114009509/205428658-8fc0fc0e-c43e-4dbe-8af8-0909b6325803.png)
 
 ![imagen 5](https://user-images.githubusercontent.com/114009509/205428707-a0e9c90e-c22d-438d-af03-7db00d5d52a4.png)
+
+
+Otra función de nuestra app es que al momento de seleccionar el recuadro de la API de pokemón direccione al usuario a una pagina de error donde despues de 4 segundos se direcciona automaticamente a la pagina de inicio lo cual es una forma de tolerancia a fallas.
 
 
 
