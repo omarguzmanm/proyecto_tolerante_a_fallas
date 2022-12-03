@@ -48,6 +48,8 @@ teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API q
 
 Otra función de nuestra app es que al momento de seleccionar el recuadro de la API de pokemón direccione al usuario a una pagina de error donde despues de 4 segundos se direcciona automaticamente a la pagina de inicio lo cual es una forma de tolerancia a fallas.
 
+![imagen 6](https://user-images.githubusercontent.com/114009509/205428921-1ea3f54c-fc1d-437e-ac2d-e2c7b9ca4584.png)
+
 
 
 
