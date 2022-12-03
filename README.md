@@ -8,7 +8,7 @@ Alumnos:
  - López de Rueda Fernando Yaír Valentín
 
 
-🌐Tegnologías usadas
+# 🌐Tecnologías usadas
  - HTML
  - CSS
  - JS
