@@ -31,4 +31,9 @@ teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API q
 
 ![imagen 1](https://user-images.githubusercontent.com/114009509/205428044-fe26d151-c655-4801-a608-dfe0cb4fcf4c.png)
 
+![imagen 2](https://user-images.githubusercontent.com/114009509/205428226-21112ded-7978-483e-9a90-264e403002d0.png)
+
+![imagen 3 ](https://user-images.githubusercontent.com/114009509/205428250-14c07ee2-3edc-4714-933b-81a04fa087ef.png)
+
+
 
