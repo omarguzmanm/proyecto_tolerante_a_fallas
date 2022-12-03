@@ -1,0 +1,19 @@
+
+   
+   img {
+     max-width: 100%;
+     max-height: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     background-color:white;
+     padding:10px 10px 50px 10px;
+     border:1px solid #BFBFBF;
+     box-shadow:5px 10px 18px rgba(73, 73, 73, 0.8);
+   }
+   
+   .cat {
+     height: 500px;
+     width: 500px;
+     margin: 0 auto;
+   }
