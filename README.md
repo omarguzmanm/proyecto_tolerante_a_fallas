@@ -40,7 +40,7 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
 # ▶ Iniciamos
 
 Descargamos la imagen de docker con el siguiente comando:
-**docker pull gabreillazo/theproyect **
+**Docker pull gabreillazo/theproyect**
 
 Iniciamos minikube:
 **Minikube start**
