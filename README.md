@@ -46,7 +46,7 @@ Otra función de nuestra app es que al momento de seleccionar el recuadro de la 
 ![imagen 6](https://user-images.githubusercontent.com/114009509/205428921-1ea3f54c-fc1d-437e-ac2d-e2c7b9ca4584.png)
 
 
-**Docker**
+# 🐳Docker
 
 
 Para poder descargar nuestra imagen se debe de ultilizar el siguiente comando:
