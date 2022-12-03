@@ -45,15 +45,21 @@ Docker pull gabreillazo/theproyect
 ```
 
 Iniciamos minikube:
-**Minikube start**
+```
+Minikube start
+```
 
 Cargamos nuestro deployment y service para generar nuestros pods
-**kubectl apply -f deployment.yml**
-**kubectl apply -f service.yml**
+```
+kubectl apply -f deployment.yml
+kubectl apply -f service.yml
+```
 
 Miramos que se generaron:
-**kubectl get pods**
-**minikube dashboard**
+```
+kubectl get pods
+minikube dashboard
+```
 
 Creamos un tunel para nuestro servicio
 
