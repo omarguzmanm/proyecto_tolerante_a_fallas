@@ -45,6 +45,12 @@ Otra función de nuestra app es que al momento de seleccionar el recuadro de la 
 
 ![imagen 6](https://user-images.githubusercontent.com/114009509/205428921-1ea3f54c-fc1d-437e-ac2d-e2c7b9ca4584.png)
 
+Al momento de ingresar una direcccion inexistente se le direccionará automaticamente al inicio y en caso de que no lo haga podrá dar click en un botón que se le mostrará en pantalla.
+
+![imagen 7](https://user-images.githubusercontent.com/114009509/205430214-08ada25a-105c-46dc-ba85-9a51edf84cfc.png)
+
+
+
 
 # 🐳Docker
 
