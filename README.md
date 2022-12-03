@@ -28,6 +28,12 @@ Dicha aplicacion hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS) una v
 teniendo en el inicio unas tarjetas donde el usuario podrá seleccionar la API que deseé consumir.
 
 
+**APIS utilizadas**
+ **- GIPHY:** Api la cual te permite hacer una busqueda de cualquier gif mediante una barra la cual se situa en la parte de arriba.
+ **- MARVEL:** Api la cual despliega varios personajes de la franquicia los cuales al dar click sobre uno direccionará a la persona a una pagína donde se mostrará la biografía de ese personaje en cuestión, además de los comics donde aparece.
+  **- DOG API:** Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
+
+
 
 ![imagen 1](https://user-images.githubusercontent.com/114009509/205428044-fe26d151-c655-4801-a608-dfe0cb4fcf4c.png)
 
