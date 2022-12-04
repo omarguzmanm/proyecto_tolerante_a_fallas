@@ -38,12 +38,14 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
 **📁Istio**
 
 # ▶ Iniciamos
-
+Docker
+---
 Descargamos la imagen de docker con el siguiente comando:
 ```
 Docker pull gabreillazo/theproyect
 ```
-
+Kubernetes
+---
 Iniciamos minikube:
 ```
 Minikube start
@@ -61,7 +63,14 @@ kubectl get pods
 minikube dashboard
 ```
 
-Creamos un tunel para nuestro servicio
+Creamos un tunel para nuestro servicio:
+```
+kubectl create deployment theproyect-service --images=k8s.gcr.io/echoserver:1.4
+minikube service theproyect-service
+```
+Istio
+---
+
 
 
 # 📱Imagenes de nuestra aplicacion
