@@ -70,7 +70,47 @@ minikube service theproyect-service
 ```
 Istio
 ---
+Aplicamos una inyección a nuestros pods:
+```
+kubectl label namespace default istio-injection=enabled
+```
+Aplicar cambios a los archivos para que se les inyecte el proxy a los pods:
+```
+kubectl apply -f deployment.yml
+kubectl apply -f service.yml
+```
+Verificar que se hizo la inyeccion correctamente:
+```
+kubectl get pods
+kubectl describe pod <pod_name>
+```
+Iniciar modo iteractivo de nuestro pod:
+```
+kubectl exec -it <pod_name> /bin/sh
+```
+Generar peticiones para obtener tráfico:
+```
+while sleep 1; do curl -o /dev/null -s -w %{http_code} http://<name_service>-svc:80/; done
+```
 
+**Para ver las metricas, el trafico y estadísticas de los pods y servicios ejecuta los siguientes comandos**
+
+[Kiali](https://istio.io/latest/docs/ops/integrations/kiali/)
+```
+istioctl dashboard kiali
+```
+[Prometheus](https://istio.io/latest/docs/ops/integrations/prometheus/)
+```
+istioctl dashboard prometheus
+```
+[Grafana](https://istio.io/latest/docs/ops/integrations/grafana/)
+```
+istioctl dashboard grafana
+```
+[Jaeger](https://istio.io/latest/docs/ops/integrations/jaeger/)
+```
+istioctl dashboard jaeger
+```
 
 
 # 📱Imagenes de nuestra aplicacion
