@@ -6,16 +6,6 @@ from datetime import datetime
 from routes import * 
 
 import re
-
-
-
-
-
-
-
-#Registrando una cuenta de Usuario
-
-
         
 if __name__ == "__main__":
     app.run(debug=True, port=8000)
