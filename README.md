@@ -2,6 +2,8 @@
 
 # 🖥Consumo de API con Flask utilizando Docker, Kubernetes e Istio
 
+![VistaProyecto](https://user-images.githubusercontent.com/86528554/205555513-9d28d7e8-7b87-4d0c-a346-cb1e939229b1.gif)
+
 # 🧑‍💻Alumnos:
  - Guzmán Munguía Omar Alejandro
  - Lazo Villa Gabriel
