@@ -29,7 +29,7 @@ hace el consumo de diferentes APIS (GIPHY, MARVEL Y DOGS); permitiendole al usua
   - **DOG API:** Api la cual te mostrará la una imagen de referencia de la raza de perros ingresada desde el teclado, estas imagenes las mostrará de manera aleatoria lo que hace que muestre una gran variedad de imagenes por cada raza de perros.
 
 
-# Pre-requitos🗂
+# Pre-requisitos🗂
 
 **🐳Docker**
 **🪱Python**
