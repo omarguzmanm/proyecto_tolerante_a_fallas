@@ -69,6 +69,8 @@ Aplicamos una inyección a nuestros pods:
 ```
 kubectl label namespace default istio-injection=enabled
 ```
+![inyeccion](https://user-images.githubusercontent.com/114009509/205819529-e0312433-0cd0-4287-8625-8f0e80046a77.png)
+
 Aplicar cambios a los archivos para que se les inyecte el proxy a los pods:
 ```
 kubectl apply -f proyecto-v1.yaml
