@@ -46,6 +46,11 @@ Descargamos la imagen de docker con el siguiente comando:
 ```
 docker pull ferderueda7/proyecto
 ```
+Captura de nuestra imagen ya creada
+
+![docker](https://user-images.githubusercontent.com/114009509/205820047-0f110ffe-1aea-482b-afeb-312b246755f3.png)
+
+
 Kubernetes
 ---
 Iniciamos minikube:
