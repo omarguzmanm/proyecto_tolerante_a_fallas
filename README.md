@@ -128,6 +128,10 @@ Al momento de ingresar una direcccion inexistente se le direccionará automatica
 
 ![imagen 7](https://user-images.githubusercontent.com/114009509/205430214-08ada25a-105c-46dc-ba85-9a51edf84cfc.png)
 
--:file_folder: _Archivo PDF_:
+Archivo PDF
+---
   +[Reporte](Reporte-ProyectoFinal.pdf)
+  
+ Video
+ ---
 
