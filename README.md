@@ -15,7 +15,7 @@
  - HTML
  - CSS
  - JS
- - PYTHON
+ - PYTHON (flask)
  - DOCKER
  - KUBERNETES
  - ISTIO
