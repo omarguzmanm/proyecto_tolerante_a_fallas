@@ -50,7 +50,10 @@ Captura de nuestra imagen ya creada
 
 ![docker](https://user-images.githubusercontent.com/114009509/205820047-0f110ffe-1aea-482b-afeb-312b246755f3.png)
 
-
+Podemos checar que nuestra imagen se creó correctamente con:
+```
+docker images
+```
 Kubernetes
 ---
 Iniciamos minikube:
@@ -67,6 +70,8 @@ Miramos que se generaron:
 ```
 kubectl get pods
 minikube dashboard
+![image](https://user-images.githubusercontent.com/85196028/205824361-c0b9714c-6c95-463b-bae2-2b33401a71e5.png)
+
 ```
 Istio
 ---
