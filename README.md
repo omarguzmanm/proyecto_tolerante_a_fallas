@@ -153,4 +153,4 @@ Archivo PDF
   
 Video
 ---
-[![Demostracion de nuestro proyecto](https://img.youtube.com/vi/vVnYJlETDnE/inicio.png)](https://www.youtube.com/watch?v=vVnYJlETDnE)
+[![Demostracion de nuestro proyecto](https://img.youtube.com/vi/vVnYJlETDnE/1.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
