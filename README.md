@@ -153,4 +153,4 @@ Archivo PDF
   
 Video
 ---
-[![Uso de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/sddefault2.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
+[![Uso de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/sddefault.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
