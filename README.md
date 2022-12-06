@@ -66,7 +66,7 @@ Cargamos nuestro deployment y service para generar nuestros pods
 kubectl apply -f proyecto-v1.yaml
 ```
 <p align="center">
- <img src="![image](https://user-images.githubusercontent.com/85196028/205832498-72ebbedc-2cb8-402b-818a-e691634e7534.png)" alt="Sublime's custom image"/>
+ <img src="![image](https://user-images.githubusercontent.com/85196028/205832832-9591dd4c-00ba-48d9-904b-e7827da9ce1e.png)" alt="Sublime's custom image"/>
 </p>
 
 
