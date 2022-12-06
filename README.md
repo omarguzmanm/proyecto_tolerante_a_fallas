@@ -159,7 +159,7 @@ Archivo PDF
 Video
 ---
 
-#Para ver el video del funcionamiento de la aplicación, toque la imagen o el link ⬇️
+# Para ver el video del funcionamiento de la aplicación, toque la imagen o el link ⬇️
 
 [![Uso completo de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/maxresdefault.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
 https://www.youtube.com/watch?v=vVnYJlETDnE
