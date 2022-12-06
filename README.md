@@ -86,11 +86,16 @@ Aplicar cambios a los archivos para que se les inyecte el proxy a los pods:
 kubectl apply -f proyecto-v1.yaml
 ```
 Verificar que se hizo la inyeccion correctamente:
+![inyeccion](https://user-images.githubusercontent.com/114009509/205819529-e0312433-0cd0-4287-8625-8f0e80046a77.png)
+
 ```
 kubectl get pods
 kubectl describe pods <pod_name>
 ```
-![inyeccion](https://user-images.githubusercontent.com/114009509/205819529-e0312433-0cd0-4287-8625-8f0e80046a77.png)
+Al hacer el describe a un pod, podemos apreciar que este ahora tiene dos contenedores, uno para la aplicación y el otro como proxy.
+De esta forma, nos aseguramos de que en caso de una caida, caiga primero el proxy y luego nuestra aplicación.
+![image](https://user-images.githubusercontent.com/85196028/205824766-f2795473-32ed-48f3-b55b-a40963f62b85.png)
+
 
 Iniciar modo iteractivo de nuestro pod:
 ```
