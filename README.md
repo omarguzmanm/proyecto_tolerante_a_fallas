@@ -16,7 +16,6 @@
  - CSS
  - JS
  - PYTHON
- - MYSQL
  - DOCKER
  - KUBERNETES
  - ISTIO
