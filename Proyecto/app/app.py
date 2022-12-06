@@ -1,7 +1,5 @@
 #Importando  flask y algunos paquetes
 from flask import Flask, render_template, request, redirect, url_for, session
-from datetime import date
-from datetime import datetime
 
 from routes import * 
 
