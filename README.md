@@ -153,4 +153,6 @@ Archivo PDF
   
 Video
 ---
-   [![Uso de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/sddefault.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
+
+**Para ver el video del funcionamiento de la aplicación, toque la imagen**
+[![Uso de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/sddefaultjpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
