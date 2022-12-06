@@ -153,4 +153,4 @@ Archivo PDF
   
 Video
 ---
-[![Demostracion de nuestro proyecto](https://img.youtube.com/vi/vVnYJlETDnE/1.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVnYJlETDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
