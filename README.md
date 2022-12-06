@@ -153,4 +153,4 @@ Archivo PDF
   
 Video
 ---
-<video src="https://www.youtube.com/watch?v=vVnYJlETDnE&t=1062s" width="640" height="480"></video>
+[![Uso de la aplicación](https://i.ytimg.com/vi/vVnYJlETDnE/sddefault.jpg)](https://www.youtube.com/watch?v=vVnYJlETDnE)
