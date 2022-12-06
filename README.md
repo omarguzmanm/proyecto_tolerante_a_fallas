@@ -44,7 +44,7 @@ Docker
 ---
 Descargamos la imagen de docker con el siguiente comando:
 ```
-Docker pull gabreillazo/theproyect
+docker pull ferderueda7/proyecto
 ```
 Kubernetes
 ---
@@ -55,20 +55,13 @@ Minikube start
 
 Cargamos nuestro deployment y service para generar nuestros pods
 ```
-kubectl apply -f deployment.yml
-kubectl apply -f service.yml
+kubectl apply -f proyecto-v1.yaml
 ```
 
 Miramos que se generaron:
 ```
 kubectl get pods
 minikube dashboard
-```
-
-Creamos un tunel para nuestro servicio:
-```
-kubectl create deployment theproyect-service --images=k8s.gcr.io/echoserver:1.4
-minikube service theproyect-service
 ```
 Istio
 ---
@@ -78,13 +71,12 @@ kubectl label namespace default istio-injection=enabled
 ```
 Aplicar cambios a los archivos para que se les inyecte el proxy a los pods:
 ```
-kubectl apply -f deployment.yml
-kubectl apply -f service.yml
+kubectl apply -f proyecto-v1.yaml
 ```
 Verificar que se hizo la inyeccion correctamente:
 ```
 kubectl get pods
-kubectl describe pod <pod_name>
+kubectl describe pods <pod_name>
 ```
 Iniciar modo iteractivo de nuestro pod:
 ```
