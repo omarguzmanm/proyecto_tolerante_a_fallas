@@ -70,9 +70,10 @@ Miramos que se generaron:
 ```
 kubectl get pods
 minikube dashboard
+```
 ![image](https://user-images.githubusercontent.com/85196028/205824583-1917a54d-64cd-423a-a03b-f5c18919f9b2.png)
 
-```
+
 Istio
 ---
 Aplicamos una inyección a nuestros pods:
