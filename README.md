@@ -143,4 +143,3 @@ Archivo PDF
 Video
 ---
 
-https://www.youtube.com/watch?v=85f__T6HktI
